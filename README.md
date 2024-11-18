@@ -1,4 +1,4 @@
-# Daisukes IPA Signer
+### MoonWear Signer
 IPA Signing API using zsign
 
 # Setup
